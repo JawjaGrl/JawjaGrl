@@ -17,13 +17,14 @@ gameCase = 'that can help students with other subjects in a fun and inventive wa
 fun_case = 'that ignites them'
 print(game_dev, gameCase, fun_case)  
 
-Best first class project with 'print/input/variable': 
+-Best first class projects with 'print/input/variable': 
 
 print('Hi,  what is your name?  ') 
 name = input()  
 print('Hi,', name + "it's great to meet you! ")
 
--or you could order a pizza and add the ingredients in a print() function
+-Or you could order a pizza and add the ingredients(variables) in a print() function
+
 p = 'pepperoni'
 c = 'cheese' 
 z = 'pizza' 
