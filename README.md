@@ -23,7 +23,7 @@ print('Hi,  what is your name?  ')
 name = input()  
 print('Hi,', name + "it's great to meet you! ")
 
-# or you could order a pizza and add the ingredients in a print() function
+-or you could order a pizza and add the ingredients in a print() function
 p = 'pepperoni'
 c = 'cheese' 
 z = 'pizza' 
