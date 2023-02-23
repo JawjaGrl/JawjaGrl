@@ -19,14 +19,14 @@ print(game_dev, gameCase, fun_case)
 
 -Best first class projects with 'print/input/variable': 
 
-print('Hi,  what is your name?  ') 
-name = input()  
-print('Hi,', name + "it's great to meet you! ")
+-print('Hi,  what is your name?  ') 
+-name = input()  
+-print('Hi,', name + "it's great to meet you! ")
 
 -Or you could order a pizza and add the ingredients(variables) in a print() function
 
-p = 'pepperoni'
-c = 'cheese' 
-z = 'pizza' 
-order = 'I want a' 
-print(order, p, c, z) 
+-p = 'pepperoni'
+-c = 'cheese' 
+-z = 'pizza' 
+-order = 'I want a' 
+-print(order, p, c, z) 
