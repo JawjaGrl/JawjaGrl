@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JawjaGrl, I teach basic/intermediate/advanced Python to youngsters
-- I also teach Scratch Jr, Scratch 3 and MIT App Developer
+- I also teach Scratch Jr, Scratch 3, MIT App Developer and Lego Robotics
 - 👀 I’m interested in ...becoming a Full Stack Developer, however Games/Apps are my FAVs
 - I thoroughly enjoy sharing my know with my students. I enjoy seeing their creativity and imaginations come to Life
-- 🌱 I’m currently learning ... Unity 3D/C# and JavaScript
+- 🌱 I’m currently learning ... Unity 3D 
 - 💞️ I’m looking to collaborate on any upskills I can get my hands on
 - 📫 How to reach me ... Indeed
 
@@ -20,7 +20,7 @@ print(game_dev, gameCase, fun_case)
 -Best first class projects with 'print/input/variable': 
 
 print('Hi,  what is your name?  ') 
-name = input()  
+name = input('Enter your Name: ')  
 print('Hi,', name + "it's great to meet you! ")
 
 -Or you could order a pizza and add the ingredients(variables) in a print() function
